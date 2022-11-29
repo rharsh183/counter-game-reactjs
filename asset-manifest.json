@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-game-reactjs/static/css/main.b1c0fc1a.css",
+    "main.js": "/counter-game-reactjs/static/js/main.8deeaf59.js",
+    "index.html": "/counter-game-reactjs/index.html",
+    "main.b1c0fc1a.css.map": "/counter-game-reactjs/static/css/main.b1c0fc1a.css.map",
+    "main.8deeaf59.js.map": "/counter-game-reactjs/static/js/main.8deeaf59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c0fc1a.css",
+    "static/js/main.8deeaf59.js"
+  ]
+}
